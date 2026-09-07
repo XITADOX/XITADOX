@@ -1,16 +1,16 @@
 <h1 align="center">
-Hi 👋 I'm Sairaj Patil
+Hi &#x1F44B; I'm Sairaj Patil
 </h1>
 
 <h3 align="center">
-AI & Data Science Undergraduate • MERN + ML Developer 
+AI & Data Science Undergraduate &#x2022; MERN + ML Developer 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=900&color=4F9DFF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+MERN+Developer;Building+AI+Powered+Applications;Open+Source+Contributor;Always+Learning+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=900&color=4F9DFF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+MERN+Developer;Building+AI+Powered+Applications;Open+Source+Contributor;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-## 🌐 Connect with Me
+## &#x1F310; Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sairaj-patil-631701311" target="_blank">
@@ -30,7 +30,7 @@ AI & Data Science Undergraduate • MERN + ML Developer
   </a>
 </p>
 
-## 💻 Tech Stack
+## &#x1F4BB; Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,blackarch,c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,powershell,npm,vercel,netlify,react,androidstudio,linux,bash,sqlite,discord,ai,ps,pr,ae" alt="Tech Stack Icons" />
@@ -58,19 +58,19 @@ AI & Data Science Undergraduate • MERN + ML Developer
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
 </p>
 
-## 📊 GitHub Analytics
+## &#x1F4CA; GitHub Analytics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sairaj2033&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="GitHub Streak" />
 </div>
 
-## 📈 Contribution Graph
+## &#x1F4C8; Contribution Graph
 
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=Sairaj2033&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-### 💫 Random Dev Quote
+### &#x1F4AB; Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
