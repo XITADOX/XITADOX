@@ -60,11 +60,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XITADOX&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XITADOX&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XITADOX&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=XITADOX&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XITADOX&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -74,7 +77,7 @@
 
 <div align="center">
 
-[![XITADOX Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=XITADOX&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![XITADOX's Contribution Graph](https://ghchart.rshah.org/58a6ff/XITADOX)
 
 </div>
 
@@ -84,6 +87,6 @@
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=dark)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=58A6FF&center=true&vCenter=true&random=true&width=600&lines=Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;Experience+is+the+name+everyone+gives+to+their+mistakes.)
 
 </div>
